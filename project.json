@@ -50,15 +50,6 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "Test\\TestCase_Login.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "ac2aa4c1-af90-4d2e-bf48-185a8116fa23",
-        "executionTemplatePath": "Test With Timeout (UiPath.Testing.Activities);UiPath.Testing.Activities;Test With Timeout.xaml",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "PackageFileTemplate",
-        "executionTemplateInvokeIsolated": false,
-        "fileName": "Test\\TestCase_ReadName.xaml"
       }
     ],
     "modernBehavior": true,
