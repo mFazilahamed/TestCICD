@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.0.0",
-  "projectVersion": "1.0.2",
+  "projectVersion": "1.0.149562253",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,7 +43,24 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c969f11d-fe97-4459-bb29-58af21d50f5f",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Test\\TestCase_Login.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ac2aa4c1-af90-4d2e-bf48-185a8116fa23",
+        "executionTemplatePath": "Test With Timeout (UiPath.Testing.Activities);UiPath.Testing.Activities;Test With Timeout.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "PackageFileTemplate",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Test\\TestCase_ReadName.xaml"
+      }
+    ],
     "modernBehavior": true,
     "saveToCloud": false
   },
